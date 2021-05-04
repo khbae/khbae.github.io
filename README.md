@@ -2,12 +2,10 @@
 
 R Projects
 * [Lecture Notes](https://github.com/khbae/r-project-lecture)
-* [YouTube Lectures](https://github.com/khbae/YouTube)
 
 Econometrics
 * [Panel](https://github.com/khbae/econometrics)
 * [Time Series](https://github.com/khbae/trading)
-* [YouTube Lectures](https://github.com/khbae/YouTube)
 
 Reinforcement Learning 
 * [Dynamic Programming Example - Colab](https://github.com/khbae/khbae.github.io/blob/main/Dynamic_Programming.ipynb)
@@ -16,6 +14,8 @@ Reinforcement Learning
 * [Reinforcement Learning in Financial Markets - a Survey](https://github.com/khbae/data-analytics-process/blob/main/1032172355.pdf)
 * [Reinforcement Learning for Optimized Trade Execution](https://github.com/khbae/data-analytics-process/blob/main/1143844.1143929.pdf)
 * [The QLBS Q-Learner Goes NuQLear: Fitted Q Iteration, Inverse RL, and Option Portfolios](https://github.com/khbae/data-analytics-process/blob/main/1801.06077.pdf)
+
+YouTube Lectures - [R Projects, Python, Econometrics, Derivatives, Blockchain, and etc](https://github.com/khbae/YouTube)
 
 Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
 * [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
