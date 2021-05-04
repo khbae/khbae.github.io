@@ -1,7 +1,6 @@
 # Kyounghun Bae - [curriculum vitae](https://docs.google.com/document/d/19u1QBQvUehMQGxHp0P3L7aFquuuIFjUjkgAKavTAts0/edit?usp=sharing)
 
-Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
-* [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
+[R Project Lecture](https://github.com/khbae/r-project-lecture)
 
 Reinforcement Learning 
 * [Dynamic Programming Example - Colab](https://github.com/khbae/khbae.github.io/blob/main/Dynamic_Programming.ipynb)
@@ -11,3 +10,5 @@ Reinforcement Learning
 * [Reinforcement Learning for Optimized Trade Execution](https://github.com/khbae/data-analytics-process/blob/main/1143844.1143929.pdf)
 * [The QLBS Q-Learner Goes NuQLear: Fitted Q Iteration, Inverse RL, and Option Portfolios](https://github.com/khbae/data-analytics-process/blob/main/1801.06077.pdf)
 
+Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
+* [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
