@@ -17,5 +17,8 @@ Reinforcement Learning
 
 YouTube Lectures - [R Projects, Python, Econometrics, Derivatives, Blockchain, and etc](https://github.com/khbae/YouTube)
 
+칼럼
+* [부산은행 - 미래금융백서](https://github.com/khbae/techfinance)
+
 Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
 * [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
