@@ -17,7 +17,7 @@ Reinforcement Learning
 
 YouTube Lectures - [R Projects, Python, Econometrics, Derivatives, Blockchain, and etc](https://github.com/khbae/YouTube)
 
-칼럼
+Column/News Articles
 * [미래금융백서, 부산은행](https://github.com/khbae/techfinance)
 * [디지털 트랜스포메이션 로드맵-기업 밸류업을 위한 데이터 활용 방안, IT조선](http://it.chosun.com/site/data/html_dir/2020/11/20/2020112000405.html)
 * [명교수 명강의 / 배경훈 교수 '금융 데이터 사이언스', 매일경제](https://www.mk.co.kr/news/special-edition/view/2020/04/442281/)
