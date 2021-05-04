@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Kyounghun Bae - [curriculum vitae](https://docs.google.com/document/d/19u1QBQvUehMQGxHp0P3L7aFquuuIFjUjkgAKavTAts0/edit?usp=sharing)
 
 R Projects
