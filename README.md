@@ -2,10 +2,12 @@
 
 R Projects
 * [Lecture Notes](https://github.com/khbae/r-project-lecture)
+* [YouTube Lectures](https://github.com/khbae/YouTube)
 
 Econometrics
 * [Panel](https://github.com/khbae/econometrics)
 * [Time Series](https://github.com/khbae/trading)
+* [YouTube Lectures](https://github.com/khbae/YouTube)
 
 Reinforcement Learning 
 * [Dynamic Programming Example - Colab](https://github.com/khbae/khbae.github.io/blob/main/Dynamic_Programming.ipynb)
