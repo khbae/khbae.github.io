@@ -23,8 +23,8 @@ Column/News Articles
 * [명교수 명강의 / 배경훈 교수 '금융 데이터 사이언스', 매일경제](https://www.mk.co.kr/news/special-edition/view/2020/04/442281/)
 
 Publications
-* “Liquidity risk and Exchange-traded-fund returns, variances, and tracking errors” joint with Kim , Journal of Financial Economics
-* “Do investors use options and futures to trade on different types of information? Evidence from an aggregate stock index” joint with Dixon, Journal of Futures Markets
+* [“Liquidity risk and Exchange-traded-fund returns, variances, and tracking errors” joint with Kim, Journal of Financial Economics](https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301276)
+* [“Do investors use options and futures to trade on different types of information? Evidence from an aggregate stock index” joint with Dixon, Journal of Futures Markets](https://hanyang.elsevierpure.com/en/publications/do-investors-use-options-and-futures-to-trade-on-different-types-)
 * "Foreign Traders and Informative Stock Prices: Evidence from Korea" joint with Eom and Kim, Asia-Pacific Journal of Financial Studies
 
 Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
