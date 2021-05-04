@@ -1,9 +1,9 @@
 # Kyounghun Bae - [curriculum vitae](https://docs.google.com/document/d/19u1QBQvUehMQGxHp0P3L7aFquuuIFjUjkgAKavTAts0/edit?usp=sharing)
 
-R Project Lecture 
-* [My Github](https://github.com/khbae/r-project-lecture)
+R Projects
+* [Lecture Notes](https://github.com/khbae/r-project-lecture)
 
-Econometrics Lecture
+Econometrics
 * [Panel](https://github.com/khbae/econometrics)
 * [Time Series](https://github.com/khbae/trading)
 
