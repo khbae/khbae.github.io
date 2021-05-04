@@ -1,6 +1,7 @@
 # Kyounghun Bae - [curriculum vitae](https://docs.google.com/document/d/19u1QBQvUehMQGxHp0P3L7aFquuuIFjUjkgAKavTAts0/edit?usp=sharing)
 
-[R Project Lecture](https://github.com/khbae/r-project-lecture)
+R Project Lecture 
+* [My Github](https://github.com/khbae/r-project-lecture)
 
 Reinforcement Learning 
 * [Dynamic Programming Example - Colab](https://github.com/khbae/khbae.github.io/blob/main/Dynamic_Programming.ipynb)
