@@ -22,7 +22,7 @@ Column/News Articles
 * [디지털 트랜스포메이션 로드맵-기업 밸류업을 위한 데이터 활용 방안, IT조선](http://it.chosun.com/site/data/html_dir/2020/11/20/2020112000405.html)
 * [명교수 명강의 / 배경훈 교수 '금융 데이터 사이언스', 매일경제](https://www.mk.co.kr/news/special-edition/view/2020/04/442281/)
 
-Publications
+Research Publications
 * [“Liquidity risk and Exchange-traded-fund returns, variances, and tracking errors”, Journal of Financial Economics](https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301276)
 * [“Do investors use options and futures to trade on different types of information? Evidence from an aggregate stock index”, Journal of Futures Markets](https://hanyang.elsevierpure.com/en/publications/do-investors-use-options-and-futures-to-trade-on-different-types-)
 * "Foreign Traders and Informative Stock Prices: Evidence from Korea", Asia-Pacific Journal of Financial Studies
