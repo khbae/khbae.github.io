@@ -5,7 +5,7 @@ Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim
 
 Reinforcement Learning Example - Frozen Lake
 * [Sample Colab](https://github.com/khbae/data-analytics-process/blob/main/1_강화학습(Reinforcement_Learning).ipynb)
-* [Reinforcement learning in financial markets - a survey](https://github.com/khbae/data-analytics-process/blob/main/1032172355.pdf)
+* [Reinforcement Learning in Financial Markets - a Survey](https://github.com/khbae/data-analytics-process/blob/main/1032172355.pdf)
 * [Reinforcement Learning for Optimized Trade Execution](https://github.com/khbae/data-analytics-process/blob/main/1143844.1143929.pdf)
 * [The QLBS Q-Learner Goes NuQLear: Fitted Q Iteration, Inverse RL, and Option Portfolios](https://github.com/khbae/data-analytics-process/blob/main/1801.06077.pdf)
 
