@@ -22,5 +22,10 @@ Column/News Articles
 * [디지털 트랜스포메이션 로드맵-기업 밸류업을 위한 데이터 활용 방안, IT조선](http://it.chosun.com/site/data/html_dir/2020/11/20/2020112000405.html)
 * [명교수 명강의 / 배경훈 교수 '금융 데이터 사이언스', 매일경제](https://www.mk.co.kr/news/special-edition/view/2020/04/442281/)
 
+Publications
+* “Liquidity risk and Exchange-traded-fund returns, variances, and tracking errors” joint with Kim , Journal of Financial Economics
+* “Do investors use options and futures to trade on different types of information? Evidence from an aggregate stock index” joint with Dixon, Journal of Futures Markets
+* "Foreign Traders and Informative Stock Prices: Evidence from Korea" joint with Eom and Kim, Asia-Pacific Journal of Financial Studies
+
 Discussion: Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
 * [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
