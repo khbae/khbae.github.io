@@ -3,6 +3,10 @@
 R Project Lecture 
 * [My Github](https://github.com/khbae/r-project-lecture)
 
+Econometrics Lecture
+* [Panel](https://github.com/khbae/econometrics)
+* [Time Series](https://github.com/khbae/trading)
+
 Reinforcement Learning 
 * [Dynamic Programming Example - Colab](https://github.com/khbae/khbae.github.io/blob/main/Dynamic_Programming.ipynb)
 * [Q Learning Example Frozen Lake - Colab](https://github.com/khbae/data-analytics-process/blob/main/1_강화학습(Reinforcement_Learning).ipynb)
