@@ -27,5 +27,5 @@
 * [“Do investors use options and futures to trade on different types of information? Evidence from an aggregate stock index”, Journal of Futures Markets](https://hanyang.elsevierpure.com/en/publications/do-investors-use-options-and-futures-to-trade-on-different-types-)
 * "Foreign Traders and Informative Stock Prices: Evidence from Korea", Asia-Pacific Journal of Financial Studies
 
-**Discussion:** Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim)
-* [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
+**Discussion** 
+* Flights to Quality and Momentum Crashes (Chang-mo Kang, Donghyun Kim, and Junyong Kim): [slide](https://docs.google.com/presentation/d/1oHG3NiK1kzKE4ZDpHKYmsFZdmRNeNJcpqd-BVNd5L2U/edit?usp=sharing) 
